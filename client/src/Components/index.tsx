@@ -1,0 +1,8 @@
+export { default as Navbar } from "./Navbar/Navbar"
+export { default as Landing } from "./Landing/Landing"
+export { default as About } from "./About/About"
+export { default as Galerry } from "./Gallerry/Gallerry"
+export { default as Footer } from "./Footer/Footer"
+export { default as DetailsRec } from "./DetailsRec/DetailsRec"
+export { default as RecComAdmin } from "./RecComAdmin/RecComAdmin"
+export { default as CatAdd } from "./CatAdd/CatAdd"
